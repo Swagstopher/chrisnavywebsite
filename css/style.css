@@ -1,0 +1,57 @@
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top:-5%;
+  margin-left:-10%;
+  text-align: center;
+*/
+}
+
+body {
+    background: url("../images/wallhaven-574176.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  	font-family: 'Fenix', serif;
+
+}
+
+.logo-text{
+	font-size:10em;
+	color: #3f3f3f;
+}
+
+.nav-logo{
+	font-size:2.5em;
+	color: #3f3f3f;
+}
+
+.coming-text {
+	font-size: 2em;
+	color: #3f3f3f;
+}
+
+ #navbar ul { 
+	margin: 0; 
+	padding: 1%; 
+	list-style-type: none; 
+	background-color: #FFF; 
+	} 
+ 
+#navbar ul li {  
+	display: inline; 
+	} 
+ 
+#navbar ul li a { 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	color: #3f3f3f; 
+	background-color: #fff; 
+	} 
+ 
+#navbar ul li a:hover { 
+	color: #fff; 
+	background-color:  #3f3f3f; 
+	} 
